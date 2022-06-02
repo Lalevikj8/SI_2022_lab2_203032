@@ -4,6 +4,7 @@
 
 
 # Control Flow Graph
+![finalen](https://user-images.githubusercontent.com/102829851/171693538-dc450398-8fdd-4c4f-8d27-8cc15f48d4eb.png)
 
 
 # Цикломатска комплексност
